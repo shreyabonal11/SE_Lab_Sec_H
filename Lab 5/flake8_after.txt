@@ -1,0 +1,5 @@
+Flake8 AFTER Report
+====================
+File: hospital_patient_system_fixed.py
+
+PASS: No Flake8 violations found.
